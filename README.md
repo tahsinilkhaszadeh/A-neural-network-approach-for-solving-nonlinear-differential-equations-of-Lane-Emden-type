@@ -28,7 +28,8 @@
 
 ## Pages
 ###  Home page
- 
+![homePage](https://github.com/user-attachments/assets/f2122f8a-07b7-462e-82cd-3f3f709455dd)
+
 ###  Product Catalog
 
 ###  Product Details Page
